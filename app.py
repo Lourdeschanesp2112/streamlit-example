@@ -1,4 +1,5 @@
 import streamlit as st
 
 st.title("Mi primera página en Streamlit")
-st.write("¡Hola Lourdes! Tu página ya funciona 🎉")
+st.write("¡Hola, soy Lourdes! Bienvenida a mi página 🎉")
+
