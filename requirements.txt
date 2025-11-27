@@ -2,3 +2,4 @@
 streamlit
 ploty
 openpyx1
+plorty.express
