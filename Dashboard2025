@@ -2,7 +2,6 @@ import pandas as pd
 
 file_path = 'SalidaVentas.xlsx'
 df = pd.read_excel(file_path)
-
 import plotly.graph_objects as go
 
 # Calculate top 5 products by sales
