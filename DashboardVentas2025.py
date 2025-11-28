@@ -7,7 +7,7 @@ st.title('Análisis de Ventas y Profitability')
 
 # --- 1. Load Data ---
 st.header('1. Carga de Datos')
-file_path = 'SalidaFinal.xlsx'
+file_path = 'SalidaVentas.xlsx'
 
 try:
     df = pd.read_excel(file_path)
